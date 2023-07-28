@@ -5,7 +5,7 @@ Also please cite papers below  if you use this database tool:
 
 Ulbrich et al., 2009, https://acp.copernicus.org/articles/9/2891/2009/acp-9-2891-2009.html
 
-Jeon et al., 
+Jeon et al., 2023, https://doi.org/10.5194/egusphere-2023-1129
 
 The latest verision of database is uploaded in .zip file and it consists of 2 ipf files, 1 h5 file, and 1 pxt file. 
 
