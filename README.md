@@ -1,4 +1,4 @@
-# AMS_MS_DB (Last edited date: 2023/10/06)
+# MARMOT announcement (Last edited date: 2023/10/06)
 
 This AMS mass spectral database and tool have been made available to the entire community. By using spectra in the database you agree to make appropriate citations of the papers referenced for the specific spectra that you use. 
 Also please cite the papers below  if you use this database tool: 
