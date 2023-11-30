@@ -1,6 +1,6 @@
 # MARMOT announcement (Last edited date: 2023/11/30)
 
-Welcome to use this newly developed aerosol Mass spectrometry/aerosol chemical speciation monitor mAss spectRal coMparitOn Tool called **MARMOT**
+Welcome to use this newly developed aerosol **M**ass spectrometry/aerosol chemical speciation monitor m**A**ss spect**R**al co**M**parit**O**n **T**ool called **MARMOT**
 
 This AMS mass spectral database and tool have been made available to the entire community. By using spectra in the database you agree to make appropriate citations of the papers referenced for the specific spectra that you use. 
 Also please cite the papers below  if you use this database tool: 
