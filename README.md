@@ -1,4 +1,6 @@
-# MARMOT announcement (Last edited date: 2023/10/26)
+# MARMOT announcement (Last edited date: 2023/11/30)
+
+Welcome to use this newly developed aerosol Mass spectrometry/aerosol chemical speciation monitor mAss spectRal coMparitOn Tool called **MARMOT**
 
 This AMS mass spectral database and tool have been made available to the entire community. By using spectra in the database you agree to make appropriate citations of the papers referenced for the specific spectra that you use. 
 Also please cite the papers below  if you use this database tool: 
@@ -13,7 +15,7 @@ To download the zip file, Click zip file above > select the "…" dropdown menu 
 
 Current latest version of MARMOT and database: MARMOT - v3.5A, UMR DB - 07/28/2023, HR DB - 07/28/2023
 
-If your version is not the latest version, please download it from above!
+If your version is not the latest version, please download it from https://github.com/ActlabW/AMS_MS_DB!
 
 If you have any questions or want to submit your data (.h5) to the database, please contact Sohyeon Jeon, sjeon@wustl.edu. We highly encourage you to generate the h5 file using the export tool!
 
