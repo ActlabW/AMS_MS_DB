@@ -9,7 +9,7 @@ Ulbrich et al., 2009, https://acp.copernicus.org/articles/9/2891/2009/acp-9-2891
 
 Jeon et al., 2023, [https://doi.org/10.5194/egusphere-2023-1129](https://amt.copernicus.org/articles/16/6075/2023/amt-16-6075-2023.html)
 
-The latest version of the database is uploaded in a .zip file and it consists of 2 ipf files, 1 h5 file, 1 pxt file, a user guide, and an h5 file generation guide. 
+The latest version of the database is uploaded in a .zip file and it consists of 2 ipf files, 1 h5 file, 1 pxt file, a user guide, and an h5 file export tool guide. 
 
 To download the zip file, Click zip file above > select the "…" dropdown menu > click Download.
 
